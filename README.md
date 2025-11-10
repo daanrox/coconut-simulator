@@ -13,7 +13,7 @@ Para um melhor desempenho, e segurança utilize a hospedagem na Hostinger atrav�
 
 Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos, entre em contato +5531992812273
 
-<img src="front_example.gif" alt="Coconut Simulator" style="width: 100%"/> 
+<img src="front_example.gif" alt="Coconut Simulator" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
 
 ### Deploy
