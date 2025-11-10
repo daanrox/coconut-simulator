@@ -13,8 +13,9 @@ Para um melhor desempenho, e segurança utilize a hospedagem na Hostinger atrav�
 
 Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos, entre em contato +5531992812273
 
-
-![Coconut Simulator](https://coconutsimulator.com/front_example.gif)
+<div align="center">
+  <img src="https://coconutsimulator.com/front_example.gif" alt="Coconut Simulator" width="600"/>
+</div>
 
 ### Deploy
 Aplicação em produção [https://coconutsimulator.com](https://coconutsimulator.com)
