@@ -128,11 +128,8 @@ $gamePoints = $user['game_points'];
   </style>
  
 </head>
-<body style="">
+<body>
 
- 
-
- 
 
 <div id="pointsContainer" style="display: flex; flex-direction: column; gap:8px; align-items: center; justify-content: space-between; width: 100% z-index:9999">
     <p id="points"><?php echo $gamePoints; ?> PONTOS</p> 
