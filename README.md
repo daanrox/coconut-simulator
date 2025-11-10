@@ -13,9 +13,8 @@ Para um melhor desempenho, e segurança utilize a hospedagem na Hostinger atrav�
 
 Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos, entre em contato +5531992812273
 
-<div align="center">
-  <img src="https://coconutsimulator.com/front_example.gif" alt="Coconut Simulator" width="600"/>
-</div>
+![Coconut Simulator](front_example.gif)
+
 
 ### Deploy
 Aplicação em produção [https://coconutsimulator.com](https://coconutsimulator.com)
@@ -38,7 +37,7 @@ Se está em busca de outros sistemas, entre em contato!
 
 O site foi desenvolvido utilizando as seguintes tecnologias:
 
-<div align="center"> 
+<div> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
