@@ -13,7 +13,7 @@ Para um melhor desempenho, e segurança utilize a hospedagem na Hostinger atrav�
 
 Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos, entre em contato +5531992812273
 
-![Coconut Simulator](front_example.gif)
+<img src="front_example.gif" alt="Coconut Simulator" style="width: 100%"/> 
 
 
 ### Deploy
@@ -29,7 +29,7 @@ Aplicação em produção [https://coconutsimulator.com](https://coconutsimulato
 
 ### Outros jogos
 
-  <img src="outros_sistemas_daanrox_5531992812273.png" alt="Coconut Simulator" style="width: 100%"/> 
+  <img src="outros_sistemas_daanrox_5531992812273.png" alt="Outros Sistemas" style="width: 100%"/> 
 
 Se está em busca de outros sistemas, entre em contato!
 
