@@ -15,6 +15,8 @@ Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos, ent
 
 <img src="front_example.gif" alt="Coconut Simulator" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 
+A imagem acima é um gif, e está lento pois precisei reduzir o FPS para o upload no github, na aplicação tanto o gráfico quanto o frame rate estão excelentes!
+
 
 ### Deploy
 Aplicação em produção [https://coconutsimulator.com](https://coconutsimulator.com)
