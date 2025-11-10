@@ -29,7 +29,7 @@ Aplicação em produção [https://coconutsimulator.com](https://coconutsimulato
 
 ### Outros jogos
 
-![Outros Jogos](outros_sistemas_daanrox_5531992812273.png)
+  <img src="outros_sistemas_daanrox_5531992812273.png" alt="Coconut Simulator" style="width: 100%"/> 
 
 Se está em busca de outros sistemas, entre em contato!
 
